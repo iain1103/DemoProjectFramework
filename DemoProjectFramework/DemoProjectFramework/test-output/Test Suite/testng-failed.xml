@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test name="Tasks_And_Tools_Edit_Task(failed)">
+    <classes>
+      <class name="automationTestCases.Tasks_And_Tools_Add_New_Task_Valid_Data">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- automationTestCases.Tasks_And_Tools_Add_New_Task_Valid_Data -->
+      <class name="automationTestCases.Tasks_And_Tools_Edit_Task">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- automationTestCases.Tasks_And_Tools_Edit_Task -->
+      <class name="automationTestCases.Tasks_And_Tools_Add_New_Task_Invalid_Data">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- automationTestCases.Tasks_And_Tools_Add_New_Task_Invalid_Data -->
+    </classes>
+  </test> <!-- Tasks_And_Tools_Edit_Task(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

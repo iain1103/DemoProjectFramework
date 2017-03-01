@@ -1,0 +1,321 @@
+2017-02-28 15:27:04,130 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:27:04,130 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:27:04,130 INFO  [Log] $$$$$$$$$$$       Add_An_App_Check_Links_Firefox_Administrator       $$$$$$$$$$$ 
+2017-02-28 15:27:04,130 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:27:04,130 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:27:04,600 INFO  [Log] User set as Administrator 
+2017-02-28 15:27:51,926 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+RL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481252157605,"updateDate":1481252157605,"applyBackgroundUpdates":1,"skinnable":true,"size":21152,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1488295626324	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1488295626325	DeferredSave.extensions.json	DEBUG	Save changes
+1488295626325	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1488295626325	addons.xpi-utils	DEBUG	Updating add-on states
+1488295626326	addons.xpi-utils	DEBUG	Writing add-ons list
+1488295626331	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1488295626331	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1488295626333	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1488295626333	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1488295626334	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1488295626334	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1488295626335	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1488295626335	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1488295626337	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1488295626337	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1488295626337	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1488295626338	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1488295626338	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1488295626339	addons.manager	DEBUG	Starting provider: GMPProvider
+1488295626345	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1488295626346	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1488295626346	addons.manager	DEBUG	Starting provider: PluginProvider
+1488295626346	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1488295626346	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1488295626347	addons.manager	DEBUG	Completed startup sequence
+1488295626773	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1488295626773	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1488295626774	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1488295626776	DeferredSave.extensions.json	DEBUG	Starting write
+1488295627024	addons.repository	DEBUG	No addons.json found.
+1488295627025	DeferredSave.addons.json	DEBUG	Save changes
+1488295627027	DeferredSave.addons.json	DEBUG	Starting timer
+1488295627063	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1488295627063	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1488295627063	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1488295627065	DeferredSave.extensions.json	DEBUG	Write succeeded
+1488295627066	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1488295627111	DeferredSave.addons.json	DEBUG	Starting write
+1488295627123	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'LT07832', ip: '10.9.140.36', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver 
+2017-02-28 15:27:51,926 ERROR [Log] Objects_Navigation_Bar | lnk_Stan_Home not found | Exception desc : null 
+2017-02-28 15:34:46,765 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:34:46,765 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:34:46,765 INFO  [Log] $$$$$$$$$$$       Add_An_App_Check_Links_Firefox_Administrator       $$$$$$$$$$$ 
+2017-02-28 15:34:46,765 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:34:46,765 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:34:47,236 INFO  [Log] User set as Administrator 
+2017-02-28 15:35:34,430 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+RL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481252157605,"updateDate":1481252157605,"applyBackgroundUpdates":1,"skinnable":true,"size":21152,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1488296088986	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1488296088987	DeferredSave.extensions.json	DEBUG	Save changes
+1488296088987	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1488296088987	addons.xpi-utils	DEBUG	Updating add-on states
+1488296088988	addons.xpi-utils	DEBUG	Writing add-ons list
+1488296088993	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1488296088993	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1488296088995	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1488296088995	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1488296088995	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1488296088996	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1488296088997	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1488296088997	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1488296088999	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1488296088999	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1488296088999	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1488296089000	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1488296089000	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1488296089001	addons.manager	DEBUG	Starting provider: GMPProvider
+1488296089007	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1488296089008	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1488296089008	addons.manager	DEBUG	Starting provider: PluginProvider
+1488296089008	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1488296089008	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1488296089009	addons.manager	DEBUG	Completed startup sequence
+1488296089456	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1488296089457	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1488296089457	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1488296089459	DeferredSave.extensions.json	DEBUG	Starting write
+1488296089685	addons.repository	DEBUG	No addons.json found.
+1488296089685	DeferredSave.addons.json	DEBUG	Save changes
+1488296089689	DeferredSave.addons.json	DEBUG	Starting timer
+1488296089721	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1488296089721	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1488296089721	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1488296089726	DeferredSave.extensions.json	DEBUG	Write succeeded
+1488296089726	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1488296089762	DeferredSave.addons.json	DEBUG	Starting write
+1488296089776	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'LT07832', ip: '10.9.140.36', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver 
+2017-02-28 15:35:34,431 ERROR [Log] Objects_Navigation_Bar | lnk_Stan_Home not found | Exception desc : null 
+2017-02-28 15:38:13,259 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:38:13,259 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:38:13,259 INFO  [Log] $$$$$$$$$$$       Add_An_App_Check_Links_Firefox_Administrator       $$$$$$$$$$$ 
+2017-02-28 15:38:13,259 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:38:13,259 INFO  [Log] **************************************************************************************** 
+2017-02-28 15:38:13,760 INFO  [Log] User set as Administrator 
+2017-02-28 15:39:01,027 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+RL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481252157605,"updateDate":1481252157605,"applyBackgroundUpdates":1,"skinnable":true,"size":21152,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1488296295411	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1488296295412	DeferredSave.extensions.json	DEBUG	Save changes
+1488296295412	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1488296295412	addons.xpi-utils	DEBUG	Updating add-on states
+1488296295413	addons.xpi-utils	DEBUG	Writing add-ons list
+1488296295417	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1488296295418	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1488296295419	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1488296295420	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1488296295420	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1488296295421	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1488296295422	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1488296295422	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1488296295424	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1488296295424	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1488296295424	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1488296295425	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1488296295425	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1488296295426	addons.manager	DEBUG	Starting provider: GMPProvider
+1488296295432	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1488296295433	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1488296295433	addons.manager	DEBUG	Starting provider: PluginProvider
+1488296295433	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1488296295433	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1488296295434	addons.manager	DEBUG	Completed startup sequence
+1488296295868	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1488296295868	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1488296295868	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1488296295870	DeferredSave.extensions.json	DEBUG	Starting write
+1488296296109	addons.repository	DEBUG	No addons.json found.
+1488296296109	DeferredSave.addons.json	DEBUG	Save changes
+1488296296112	DeferredSave.addons.json	DEBUG	Starting timer
+1488296296149	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1488296296149	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1488296296149	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1488296296151	DeferredSave.extensions.json	DEBUG	Write succeeded
+1488296296152	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1488296296189	DeferredSave.addons.json	DEBUG	Starting write
+1488296296201	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'LT07832', ip: '10.9.140.36', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver 
+2017-02-28 15:39:01,027 ERROR [Log] Objects_Navigation_Bar | lnk_Stan_Home not found | Exception desc : null 
+2017-02-28 16:03:42,535 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:03:42,535 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:03:42,535 INFO  [Log] $$$$$$$$$$$       Add_An_App_Check_Links_Firefox_Administrator       $$$$$$$$$$$ 
+2017-02-28 16:03:42,535 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:03:42,535 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:03:43,066 INFO  [Log] User set as Administrator 
+2017-02-28 16:04:30,407 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+RL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481252157605,"updateDate":1481252157605,"applyBackgroundUpdates":1,"skinnable":true,"size":21152,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1488297824738	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1488297824738	DeferredSave.extensions.json	DEBUG	Save changes
+1488297824739	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1488297824739	addons.xpi-utils	DEBUG	Updating add-on states
+1488297824739	addons.xpi-utils	DEBUG	Writing add-ons list
+1488297824744	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1488297824744	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1488297824746	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1488297824746	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1488297824746	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1488297824747	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1488297824748	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1488297824748	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1488297824750	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1488297824750	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1488297824750	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1488297824751	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1488297824751	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1488297824752	addons.manager	DEBUG	Starting provider: GMPProvider
+1488297824758	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1488297824759	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1488297824759	addons.manager	DEBUG	Starting provider: PluginProvider
+1488297824759	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1488297824759	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1488297824760	addons.manager	DEBUG	Completed startup sequence
+1488297825179	DeferredSave.extensions.json	DEBUG	Starting write
+1488297825185	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1488297825185	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1488297825186	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1488297825402	addons.repository	DEBUG	No addons.json found.
+1488297825402	DeferredSave.addons.json	DEBUG	Save changes
+1488297825405	DeferredSave.addons.json	DEBUG	Starting timer
+1488297825437	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1488297825438	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1488297825438	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1488297825441	DeferredSave.extensions.json	DEBUG	Write succeeded
+1488297825441	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1488297825478	DeferredSave.addons.json	DEBUG	Starting write
+1488297825490	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'LT07832', ip: '10.9.140.36', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver 
+2017-02-28 16:04:30,407 ERROR [Log] Objects_Navigation_Bar | lnk_Stan_Home not found | Exception desc : null 
+2017-02-28 16:06:01,045 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:06:01,045 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:06:01,045 INFO  [Log] $$$$$$$$$$$       Breaking_News_Add_New_Item_Invalid_Details_Chrome_Administrator       $$$$$$$$$$$ 
+2017-02-28 16:06:01,045 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:06:01,045 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:06:01,530 ERROR [Log] Class ExcelUtil | Method getRowContains | Test Case Name "Breaking_News_Add_New_Item_Invalid_Details_Chrome_Administrator" not found in Excel sheet 
+2017-02-28 16:06:01,530 ERROR [Log] No valid user selected 
+2017-02-28 16:06:01,530 ERROR [Log] No valid browser selected 
+2017-02-28 16:06:01,530 ERROR [Log] Objects_Navigation_Bar | lnk_Stan_Home not found | Exception desc : null 
+2017-02-28 16:17:05,531 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:17:05,531 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:17:05,531 INFO  [Log] $$$$$$$$$$$       Add_An_App_Check_Links_Firefox_Administrator       $$$$$$$$$$$ 
+2017-02-28 16:17:05,531 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:17:05,531 INFO  [Log] **************************************************************************************** 
+2017-02-28 16:17:05,967 INFO  [Log] User set as Administrator 
+2017-02-28 16:17:53,266 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+RL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481252157605,"updateDate":1481252157605,"applyBackgroundUpdates":1,"skinnable":true,"size":21152,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1488298627550	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1488298627551	DeferredSave.extensions.json	DEBUG	Save changes
+1488298627551	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1488298627551	addons.xpi-utils	DEBUG	Updating add-on states
+1488298627551	addons.xpi-utils	DEBUG	Writing add-ons list
+1488298627556	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1488298627557	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1488298627558	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1488298627559	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1488298627559	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1488298627560	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1488298627561	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1488298627561	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1488298627563	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1488298627563	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1488298627563	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1488298627563	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1488298627564	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1488298627565	addons.manager	DEBUG	Starting provider: GMPProvider
+1488298627571	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1488298627572	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1488298627572	addons.manager	DEBUG	Starting provider: PluginProvider
+1488298627572	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1488298627572	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1488298627573	addons.manager	DEBUG	Completed startup sequence
+1488298628007	DeferredSave.extensions.json	DEBUG	Starting write
+1488298628013	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1488298628013	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1488298628013	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1488298628238	addons.repository	DEBUG	No addons.json found.
+1488298628238	DeferredSave.addons.json	DEBUG	Save changes
+1488298628242	DeferredSave.addons.json	DEBUG	Starting timer
+1488298628285	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1488298628285	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1488298628285	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1488298628289	DeferredSave.extensions.json	DEBUG	Write succeeded
+1488298628290	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1488298628294	DeferredSave.addons.json	DEBUG	Starting write
+1488298628336	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'LT07832', ip: '10.9.140.36', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver 
+2017-02-28 16:17:53,266 ERROR [Log] Objects_Navigation_Bar | lnk_Stan_Home not found | Exception desc : null 
+2017-03-01 08:58:24,274 INFO  [Log] **************************************************************************************** 
+2017-03-01 08:58:24,274 INFO  [Log] **************************************************************************************** 
+2017-03-01 08:58:24,274 INFO  [Log] $$$$$$$$$$$       Add_An_App_Check_Links_Firefox_Administrator       $$$$$$$$$$$ 
+2017-03-01 08:58:24,274 INFO  [Log] **************************************************************************************** 
+2017-03-01 08:58:24,274 INFO  [Log] **************************************************************************************** 
+2017-03-01 08:58:24,809 INFO  [Log] User set as Administrator 
+2017-03-01 08:59:11,901 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+RL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481252157605,"updateDate":1481252157605,"applyBackgroundUpdates":1,"skinnable":true,"size":21152,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1488358707869	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1488358707869	DeferredSave.extensions.json	DEBUG	Save changes
+1488358707869	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1488358707869	addons.xpi-utils	DEBUG	Updating add-on states
+1488358707870	addons.xpi-utils	DEBUG	Writing add-ons list
+1488358707875	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1488358707876	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1488358707877	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1488358707878	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1488358707878	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1488358707879	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1488358707880	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1488358707880	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1488358707882	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1488358707882	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1488358707883	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1488358707883	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1488358707884	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1488358707884	addons.manager	DEBUG	Starting provider: GMPProvider
+1488358707892	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1488358707892	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1488358707892	addons.manager	DEBUG	Starting provider: PluginProvider
+1488358707892	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1488358707892	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1488358707893	addons.manager	DEBUG	Completed startup sequence
+1488358709517	DeferredSave.extensions.json	DEBUG	Starting write
+1488358709525	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1488358709525	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1488358709526	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1488358709817	addons.repository	DEBUG	No addons.json found.
+1488358709817	DeferredSave.addons.json	DEBUG	Save changes
+1488358709821	DeferredSave.addons.json	DEBUG	Starting timer
+1488358709975	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1488358709976	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1488358709976	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1488358709978	DeferredSave.extensions.json	DEBUG	Write succeeded
+1488358709978	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1488358709979	DeferredSave.addons.json	DEBUG	Starting write
+1488358710020	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'LT07832', ip: '10.99.12.14', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver 
+2017-03-01 08:59:11,912 ERROR [Log] Objects_Navigation_Bar | lnk_Stan_Home not found | Exception desc : null 

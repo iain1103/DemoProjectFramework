@@ -1,0 +1,18 @@
+<suite name="Test Suite">
+	<test name="Tasks_And_Tools_Add_New_Task_Invalid_Data">
+		<classes>
+			<class name="automationTestCases.Tasks_And_Tools_Add_New_Task_Invalid_Data" />
+		</classes>
+	</test>
+	<test name="Tasks_And_Tools_Add_New_Task_Valid_Data">
+		<classes>
+			<class name="automationTestCases.Tasks_And_Tools_Add_New_Task_Valid_Data" />
+		</classes>
+	</test>
+	<test name="Tasks_And_Tools_Edit_Task">
+		<classes>
+			<class name="automationTestCases.Tasks_And_Tools_Edit_Task" />
+		</classes>
+	</test>
+	
+</suite>

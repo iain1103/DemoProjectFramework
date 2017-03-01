@@ -1,0 +1,81 @@
+2016-06-28 12:51:28,098 INFO  [Log] **************************************************************************************** 
+2016-06-28 12:51:28,098 INFO  [Log] **************************************************************************************** 
+2016-06-28 12:51:28,098 INFO  [Log] $$$$$$$$$$$       Policies_Page_Edit_Other_Comment_IE_Visitor       $$$$$$$$$$$ 
+2016-06-28 12:51:28,098 INFO  [Log] **************************************************************************************** 
+2016-06-28 12:51:28,098 INFO  [Log] **************************************************************************************** 
+2016-06-28 12:51:28,472 INFO  [Log] User set as Content Author 
+2016-06-28 12:51:37,715 INFO  [Log] New IE driver instantiated 
+2016-06-28 12:51:37,762 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2016-06-28 12:51:39,962 INFO  [Log] Web application launched successfully 
+2016-06-28 12:51:44,913 INFO  [Log] Home button displayed 
+2016-06-28 12:52:04,189 INFO  [Log] ContentTags:Policy page found on clicking link 
+2016-06-28 12:52:06,343 INFO  [Log] Filter Results by Location checkbox set to false 
+2016-06-28 12:52:14,082 INFO  [Log] Title picked from Excel is "TestTitle" 
+2016-06-28 12:52:14,082 INFO  [Log] Article Information Header picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Article Owner picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Creation Date picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Updated Date picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Tags Header picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Page Rating picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Comments Header picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Comment Input picked from Excel is "Test Comment" 
+2016-06-28 12:52:14,082 INFO  [Log] Comment Input picked from Excel is "Test Comment81924734082" 
+2016-06-28 12:52:14,082 INFO  [Log] Post Comment picked from Excel is "true" 
+2016-06-28 12:52:14,082 INFO  [Log] User Name picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Comment Date picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] User Comment picked from Excel is "" 
+2016-06-28 12:52:14,082 INFO  [Log] Delete Comment picked from Excel is "" 
+2016-06-28 12:52:14,082 WARN  [Log] Class ExcelUtil | Method getColContains | Column "Edited Comment" not found in datasheet 
+2016-06-28 12:52:14,082 INFO  [Log] Edited Comment picked from Excel is "" 
+2016-06-28 12:52:14,352 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "UK Maternity Policy" displayed as Title 
+2016-06-28 12:52:14,433 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "Article Information" displayed as Article Information Header 
+2016-06-28 12:52:15,544 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "James Mackerness" displayed as Article Owner 
+2016-06-28 12:52:15,614 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "29/10/2015 15:03" displayed as Creation Date 
+2016-06-28 12:52:15,694 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "15/06/2016 16:06" displayed as Updated Date 
+2016-06-28 12:52:15,765 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "Tags" displayed as Tags Header 
+2016-06-28 12:52:15,832 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "Page Rating" displayed as Page Rating Header 
+2016-06-28 12:52:15,906 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "Comments" displayed as Comments Header 
+2016-06-28 12:52:16,091 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "Test Comment81924734082" displayed as Comment Input 
+2016-06-28 12:52:16,263 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | Post button clicked 
+2016-06-28 12:52:18,497 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "Test Comment81924734082" located as Comment 
+2016-06-28 12:52:18,684 INFO  [Log] Class Utils | Method takeScreenshot | Screenshot saved as C://Users//rcruickshank655//workspace//StandardLifeProjectFramework//test-output//screenshots//Policies_Page_Edit_Other_Comment_IE_Visitor20160628-125218.jpg 
+2016-06-28 12:52:19,491 INFO  [Log] User set as Visitor 
+2016-06-28 12:52:27,933 INFO  [Log] New IE driver instantiated 
+2016-06-28 12:52:27,949 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2016-06-28 12:52:30,068 INFO  [Log] Web application launched successfully 
+2016-06-28 12:52:46,245 INFO  [Log] ContentTags:Policy page found on clicking link 
+2016-06-28 12:52:49,763 INFO  [Log] Filter Results by Location checkbox set to false 
+2016-06-28 12:53:07,123 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | "Test Comment81924734082" located as Comment 
+2016-06-28 12:53:07,277 INFO  [Log] Class Utils | Method takeScreenshot | Screenshot saved as C://Users//rcruickshank655//workspace//StandardLifeProjectFramework//test-output//screenshots//Policies_Page_Edit_Other_Comment_IE_Visitor-InitialState20160628-125307.jpg 
+2016-06-28 12:53:27,313 INFO  [Log] Policies_Page_Edit_Other_Comment_IE_Visitor | Edit button not found as expected for this user. 
+2016-06-28 12:53:27,495 INFO  [Log] Class Utils | Method takeScreenshot | Screenshot saved as C://Users//rcruickshank655//workspace//StandardLifeProjectFramework//test-output//screenshots//Policies_Page_Edit_Other_Comment_IE_Visitor-FinalState20160628-125327.jpg 
+2016-06-28 12:53:28,165 INFO  [Log] XXXXXXXXXXXXXXXXXXXX                -E---N---D-                XXXXXXXXXXXXXXXXXXX 
+2016-06-28 12:53:28,165 INFO  [Log] XXXXXXXXXXXXXXXXXXXX    Policies_Page_Edit_Other_Comment_IE_Visitor    XXXXXXXXXXXXXXXXXXX 
+2016-06-28 12:53:28,165 INFO  [Log] X 
+2016-06-28 12:53:28,165 INFO  [Log] X 
+2016-06-28 12:53:28,165 INFO  [Log] X 
+2016-07-05 12:23:15,214 INFO  [Log] **************************************************************************************** 
+2016-07-05 12:23:15,214 INFO  [Log] **************************************************************************************** 
+2016-07-05 12:23:15,214 INFO  [Log] $$$$$$$$$$$       Add_An_App_Check_Links_Firefox_Administrator       $$$$$$$$$$$ 
+2016-07-05 12:23:15,214 INFO  [Log] **************************************************************************************** 
+2016-07-05 12:23:15,214 INFO  [Log] **************************************************************************************** 
+2016-07-05 12:23:15,651 ERROR [Log] Class ExcelUtil | Method getRowContains | Test Case Name "Add_An_App_Check_Links_Firefox_Administrator" not found in Excel sheet 
+2016-07-05 12:23:15,651 INFO  [Log] User set as Administrator 
+2016-07-05 12:23:20,315 INFO  [Log] New Firefox driver instantiated 
+2016-07-05 12:23:20,435 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2016-07-05 14:02:32,296 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:02:32,296 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:02:32,296 INFO  [Log] $$$$$$$$$$$       Policies_Page_Edit_Other_Comment_IE_Visitor       $$$$$$$$$$$ 
+2016-07-05 14:02:32,296 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:02:32,296 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:03:15,119 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:03:15,119 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:03:15,119 INFO  [Log] $$$$$$$$$$$       Policies_Page_Edit_Other_Comment_IE_Visitor       $$$$$$$$$$$ 
+2016-07-05 14:03:15,119 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:03:15,119 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:05:07,683 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:05:07,683 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:05:07,683 INFO  [Log] $$$$$$$$$$$       Breaking_News_Add_New_Item_Invalid_Details_Firefox_Administrator       $$$$$$$$$$$ 
+2016-07-05 14:05:07,683 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:05:07,683 INFO  [Log] **************************************************************************************** 
+2016-07-05 14:05:33,771 ERROR [Log] Class ExcelUtil | Method getRowContains | Test Case Name "Breaking_News_Add_New_Item_Invalid_Details_Firefox_Administrator" not found in Excel sheet 
